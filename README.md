@@ -1,6 +1,6 @@
 # WhoamI
-My Personal Developer Portfolio
+개발자 포트폴리오용으로 만든 개인 웹사이트 입니다
 
+Node js, mongoDB, Angular를 공부하여 WhoamI에 적용할 예정입니다.
 
-# WhoamI
-개발자 포트폴리오 전용 개인 웹사이트 입니다
+컨텐츠로는 개인 포트폴리오 및 작업, 자기소개, 방명록, 개발 요청 게시판 등을 만들 예정입니다.
